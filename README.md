@@ -1,5 +1,5 @@
 
-This is a lab for Oracle's Cloud Day
+This is a lab for Oracle's Cloud Day even in  Boston
 
 About
 =====
